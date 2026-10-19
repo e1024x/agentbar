@@ -1,0 +1,5 @@
+# build output
+*.exe
+# per-user files, created next to the exe on first run
+agentbar.ini
+agentbar.state.ini
